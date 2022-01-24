@@ -1,4 +1,4 @@
-# logseq-simple-parametric-theme
+# Simple Parametric Theme
 
 Simple Parametric Theme aims to change the colors of the default dark theme with minimal modifications.
 
