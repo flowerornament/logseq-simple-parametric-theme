@@ -1,0 +1,1 @@
+# logseq-simple-parametric-theme
