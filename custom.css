@@ -15,8 +15,8 @@
 
 --ls-primary-background-color: hsl(var(--primary-hue), var(--bg-saturation), calc(var(--bg-lightness) + 0%));
 --ls-secondary-background-color: hsl(var(--primary-hue), calc(var(--bg-saturation) - 1%), calc(var(--bg-lightness) + 3%));
---ls-tertiary-background-color: hsl(calc(var(--primary-hue) - 2), calc(var(--bg-saturation) - 2%), calc(var(--bg-lightness) + 6%));
---ls-quaternary-background-color: hsl(calc(var(--primary-hue) - 3), calc(var(--bg-saturation) - 3%), calc(var(--bg-lightness) + 8%));
+--ls-tertiary-background-color: hsl(var(--primary-hue), calc(var(--bg-saturation) - 2%), calc(var(--bg-lightness) + 6%));
+--ls-quaternary-background-color: hsl(var(--primary-hue), calc(var(--bg-saturation) - 3%), calc(var(--bg-lightness) + 8%));
 
 --ls-table-tr-even-background-color: var(--ls-tertiary-background-color);
 --ls-callout-background-color: rgba(69, 75, 78, 0.3);
@@ -41,7 +41,7 @@
 --ls-alink-color: var(--ls-link-text-color);
 --bf-external-link-color: hsl(var(--secondary-hue), 88%, 71%);
 --bf-external-link-hover-color: hsl(var(--secondary-hue), 79%, 76%);
-  
+
 --ls-active-primary-color: var(--ls-link-ref-text-color);
 --ls-active-secondary-color: hsl(var(--secondary-hue), 80%, 69%);
 
@@ -51,7 +51,7 @@
 --ls-tag-background-hover-color: var(--ls-quaternary-background-color);
 
 --ls-slide-background-color: var(--ls-primary-background-color);
-  
+
 --ls-block-bullet-border-color: #ffffff14;
 --ls-block-bullet-color: #ffffff1c;
 
@@ -70,20 +70,20 @@
 --ls-scrollbar-foreground-color: var(--ls-block-bullet-color);
 --ls-scrollbar-background-color: #fff0;
 --ls-scrollbar-thumb-hover-color: rgba(255, 255, 255, 0.2);
-  
+
 --ls-head-text-color: #ffe27c;
 --ls-icon-color: rgb(154, 161, 165);
 --ls-search-icon-color: var(--ls-quaternary-background-color);
 --ls-a-chosen-bg: var(--ls-secondary-background-color);
 --ls-right-sidebar-code-bg-color: hsl(331, 88%, 13%);
-  
+
 --color-level-1: var(--ls-secondary-background-color);
 --color-level-2: var(--ls-tertiary-background-color);
 --color-level-3: var(--ls-quaternary-background-color);
 --color-level-4: #632f46;
 --color-level-5: #865673;
 --color-level-6: #9e6889;
-  
+
 --ls-block-bullet-threading-width: 2px;
 --ls-block-bullet-active-color: #4a99b9;
 }
