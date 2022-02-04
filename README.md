@@ -18,7 +18,7 @@ You can edit the following variables to change the colors of the theme.
 
 ## Example
 
-<img width="1274" alt="Screen Shot 2022-02-03 at 4 22 00 PM" src="https://user-images.githubusercontent.com/31774/152451355-5304c58f-63cc-44a6-926f-9128a23b530e.png">
+<img width="1274" alt="Screen Shot 2022-02-03 at 4 25 15 PM" src="https://user-images.githubusercontent.com/31774/152451638-030324d3-20a2-49f2-ad78-02eacdd21769.png">
 
 ## Status
 
