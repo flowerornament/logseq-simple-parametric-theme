@@ -88,15 +88,16 @@
 --ls-block-bullet-active-color: #4a99b9;
 }
 
-/* #head {
-background-color: var(--ls-primary-background-color);
-}*/
-
 .content span:not(.page-reference) a {
 color: var(--ls-link-text-color);
 }
 .content span:not(.page-reference) a:hover {
 color: var(--ls-primary-text-color);
+}
+
+.form-checkbox, form-checkbox:checked {
+border: none;
+background-color: var(--ls-quaternary-background-color);
 }
 
 /*****************************************
