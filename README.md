@@ -1,23 +1,24 @@
 # Simple Parametric Theme
 
-Simple Parametric Theme aims to change the colors of the default dark theme with minimal modifications.
+Simple Parametric Theme aims to change the colors of the default dark theme with minimal modifications. Pre-set colors are roughly based on Google.com, but you can change them to whatever you like!
 
 ## Usage
 
 You can edit the following variables to change the colors of the theme.
 
 ```
-  --primary-hue: 220;
-  --secondary-hue: calc(var(--primary-hue) - 3);
-  --bg-lightness: 14%;
-  --bg-saturation: 20%;
-  --link-saturation: calc(var(--bg-saturation) + 10%);
-  --link-lightness: 70%;
+--primary-hue: 220;
+--bg-saturation: 7%;
+--bg-lightness: 13%;
+
+--secondary-hue: 216;
+--link-saturation: 87%;
+--link-lightness: 75%;
 ```
 
 ## Example
 
-<img width="1377" alt="Screen Shot 2022-01-24 at 12 49 14 AM" src="https://user-images.githubusercontent.com/31774/150750631-05d353d3-0e25-485b-b5f8-63dcafe5300c.png">
+<img width="1274" alt="Screen Shot 2022-02-03 at 4 22 00 PM" src="https://user-images.githubusercontent.com/31774/152451355-5304c58f-63cc-44a6-926f-9128a23b530e.png">
 
 ## Status
 
