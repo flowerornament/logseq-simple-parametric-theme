@@ -162,21 +162,6 @@ a.tag[data-ref]:hover {
 background-color: var(--ls-tag-background-hover-color);
 }
 
-a.tag[data-ref] {
-align-items: center;
-background-color: var(--ls-tag-background-color);
-border-radius: 0.2rem 0.2rem 0.2rem 0.2rem;
-display: inline-flex;
-line-height: 0.8rem;
-padding: 0.3rem 0.4rem 0.3rem 0.4rem;
-white-space: nowrap;
-}
-
-a.tag[data-ref]:hover {
-background-color: var(--ls-tag-background-hover-color);
-}
-
-
 /*****************************************
 Code Mirror
 *****************************************/
